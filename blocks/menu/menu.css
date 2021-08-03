@@ -1,8 +1,0 @@
-@import url("./__link/menu__link.css");
-
-.menu {
-  flex-grow: 0.1;
-  display: flex;
-  justify-content: space-between;
-}
-
