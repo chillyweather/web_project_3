@@ -4,3 +4,21 @@
   margin: auto;
   padding:0 100px 92px;
 }
+
+@media screen and (max-width: 1150px) {
+  .intro {
+    padding: 0px 48px 92px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .intro {
+    padding: 0px 24px 88px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .intro {
+    padding: 0px 16px 64px;
+  }
+}

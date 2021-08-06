@@ -16,3 +16,21 @@
 .cover__link:hover {
   box-shadow: inset 0 0 0 2000px rgba(42, 44, 47, 0.8);
 }
+
+@media screen and (max-width: 1150px) {
+  .cover__link {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .cover__link {
+    min-height: 200px;
+  }
+}
