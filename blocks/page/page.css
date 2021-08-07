@@ -2,4 +2,6 @@
   background-color: #2a2c2f;
   color: white;
   font-family: Inter;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
