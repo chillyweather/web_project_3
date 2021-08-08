@@ -19,7 +19,7 @@
   .lead__subtitle {
     margin-bottom: 40px;
     font-size: 16px;
-  line-height: 1.25;
-  max-width: 85%;
+    line-height: 1.25;
+    max-width: 85%;
   }
 }
