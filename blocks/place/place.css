@@ -1,7 +1,6 @@
 .place {
   display: grid;
   grid-template-columns: 4.6fr 4.84fr;
-  /* thanks for great advise, Marina ^^^^^^^^^ */
   grid-template-rows: 1fr minmax(460px, auto);
   column-gap: 40px;
   row-gap: 48px;
